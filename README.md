@@ -27,7 +27,7 @@ In addition to sharing wine experiences, a dashboard of the most popular wines t
   - Has the ability to browse the catalogue of other contributors (other posts) and add comments accordingly
 - A visitor may access and read all comments and see ratings without contributing. Contributing means making comments or participating in rating the wines
 - A Navbar to store all main links for easy navigation of the site as well as a login/sign-up link
-- The website runs on the basis of trust, where the user may _like_ a wine post by 'cheersing' (🥂) if they have actually tried the wine in the post. A 🥂 emoji follows the same concept as adding a _‘like’_ to a post on Facebook/Twitter. An alert will pop up asking the user to verify that they have tasted this product before incrementing the rating
+- The site runs on the basis of trust, where the user may _like_ a wine post by 'cheersing' (🥂) to like a post, following a similar concept to Facebook/Twitter. A user who has tried the wine and would like to recommend it to others can do so by _‘recommending’_ (🎖) the wine.
 - The website will provide a list of categories to choose from. ie. White wine, red wine, etc
 - The site will include a dashboard to show the current state of the most popular wines rated by users
 - The host will require 2 types of user accounts, including administrator as well as a standard user accounts. All users will login via the same login access
@@ -53,3 +53,7 @@ In addition to sharing wine experiences, a dashboard of the most popular wines t
 
 - Knock - user authentication/authorisation (TBC)
 - Styled Components
+
+### Application Architecture Diagram
+
+![Application Architecture Diagram](./architecture.jpg)
