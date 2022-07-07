@@ -57,3 +57,29 @@ In addition to sharing wine experiences, a dashboard of the most popular wines t
 ### Application Architecture Diagram
 
 ![Application Architecture Diagram](./architecture.jpg)
+
+### Wireframes
+
+#### Generic Home Page
+
+![Generic Home Page](./WireFrames/generic-home.png)
+
+#### Login
+
+![Login](./WireFrames/login.png)
+
+#### Signup
+
+![Signup](./WireFrames/sign-up.png)
+
+#### Confirmed Login
+
+![Confirmed Login](./WireFrames/confirmed-account-page.png)
+
+#### Loggedin User Home Page
+
+![Loggedin User Home Page](./WireFrames/loggedin-user-home.png)
+
+#### Create Posting
+
+![Create Posting](./WireFrames/create-posting.png)
