@@ -60,9 +60,9 @@ In addition to sharing wine experiences, a dashboard of the most popular wines t
 
 ### Wireframes
 
-#### Generic Home Page
+#### Standard Home Page
 
-![Generic Home Page](./WireFrames/generic-home.png)
+![Standard Home Page](./WireFrames/generic-home.png)
 
 #### Login
 
@@ -70,16 +70,32 @@ In addition to sharing wine experiences, a dashboard of the most popular wines t
 
 #### Signup
 
-![Signup](./WireFrames/sign-up.png)
+![Signup](./WireFrames/signUp.png)
 
 #### Confirmed Login
 
-![Confirmed Login](./WireFrames/confirmed-account-page.png)
+![Confirmed Login](./WireFrames/confirmedAccountPage.png)
 
 #### Loggedin User Home Page
 
-![Loggedin User Home Page](./WireFrames/loggedin-user-home.png)
+![Loggedin User Home Page](./WireFrames/loggedinUserHomePage.png)
 
 #### Create Posting
 
-![Create Posting](./WireFrames/create-posting.png)
+![Create Posting](./WireFrames/createPosting.png)
+
+#### My Wines
+
+![My Wines](./WireFrames/myWines.png)
+
+#### UserX Wines
+
+![UserX Wines](./WireFrames/userXWines.png)
+
+#### Recommended Wines
+
+![Recommended Wines](./WireFrames/recommendedWines.png)
+
+#### Administrator Dashboard
+
+![Administrator Dashboard](./WireFrames/adminDashboard.png)
