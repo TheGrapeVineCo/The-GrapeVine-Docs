@@ -62,7 +62,7 @@ In addition to sharing wine experiences, a dashboard of the most popular wines t
 
 #### Standard Home Page
 
-![Standard Home Page](./WireFrames/generic-home.png)
+![Standard Home Page](./WireFrames/standardHome.png)
 
 #### Login
 
@@ -72,30 +72,54 @@ In addition to sharing wine experiences, a dashboard of the most popular wines t
 
 ![Signup](./WireFrames/signUp.png)
 
-#### Confirmed Login
-
-![Confirmed Login](./WireFrames/confirmedAccountPage.png)
-
 #### Loggedin User Home Page
 
 ![Loggedin User Home Page](./WireFrames/loggedinUserHomePage.png)
-
-#### Create Posting
-
-![Create Posting](./WireFrames/createPosting.png)
 
 #### My Wines
 
 ![My Wines](./WireFrames/myWines.png)
 
+#### Wish List
+
+![Wish List](./WireFrames/wishList.png)
+
+#### Search
+
+![Search](./WireFrames/search.png)
+
 #### UserX Wines
 
 ![UserX Wines](./WireFrames/userXWines.png)
 
-#### Recommended Wines
+#### Create Post
 
-![Recommended Wines](./WireFrames/recommendedWines.png)
+![Create Post](./WireFrames/createPost.png)
+
+#### Update A Post
+
+![Update A Post](./WireFrames/updatePost.png)
+
+#### Delete Post
+
+![Delete Post](./WireFrames/deletePost.png)
+
+#### Report A Users Post
+
+![Report A User Post](./WireFrames/reportUserPost.png)
+
+#### Contact Us
+
+![Contact Us](./WireFrames/contactUs.png)
+
+#### Wine Ratings
+
+![Wine Ratings](./WireFrames/wineRatings.png)
 
 #### Administrator Dashboard
 
 ![Administrator Dashboard](./WireFrames/adminDashboard.png)
+
+#### Administrator Notification
+
+![Administrator Notification](./WireFrames/reportedUserPost.png)
