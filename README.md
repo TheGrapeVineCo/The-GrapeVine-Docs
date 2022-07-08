@@ -58,6 +58,36 @@ In addition to sharing wine experiences, a dashboard of the most popular wines t
 
 ![Application Architecture Diagram](./architecture.jpg)
 
+### User Stories
+
+There are numerous possibilities to scale up the site. Therefore, the minimum viable product has been outlined with additional features to be added should time permit in the first release.
+
+#### Minimum Viable Product
+
+| As a...                      | I want to...                                                                                     | So that...                                                                                           |
+| ---------------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
+| user / guest                 | view all wines listed, including the comments and the number of likes                            | I am able to see what recommendations others have and how others have responded to a particular wine |
+| guest                        | create an account with an email address, username and password                                   | I have a unique account that is secure and doesn’t require providing too much personal information   |
+| user                         | comment on a wine that someone has posted                                                        | I can share my opinion/experience with the community                                                 |
+| user                         | be able to like a post that and if I have tried it, also add a recommendation                    | others can know about this wine, boosting its popularity                                             |
+| user                         | sign out when I have finished using the site                                                     | I can close my session off and my account is secured                                                 |
+| user                         | create a post in a convenient and easy manner                                                    | the process is quick, easy to follow and can be shared with the community                            |
+| user / guest / administrator | be able to navigate the site easily without having to guess where to find certain site functions | I can navigate easily                                                                                |
+| guest                        | be able to see what the community is about and has to offer                                      | I can understand if it’s relevant to my interests                                                    |
+| user / guest                 | know what wines are popular                                                                      | I can try something new                                                                              |
+| user                         | be able to edit or delete my own post/comment                                                    | if I make a mistake or need to retract a comment I am able to                                        |
+
+#### Additional Features
+
+| As a...            | I want to...                                                                    | I want to...                                                                          |
+| ------------------ | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| user / guest       | search flavour profiles that I like                                             | I can discover wines that match the flavour profiles I prefer                         |
+| user / guest       | have the ability to search wines, whether that is by name, country, region etc. | I can discover wines that are relevant to what I’m searching                          |
+| User               | be able to save the wines that I've tried or liked                              | I can remember and try them                                                           |
+| user               | be able to report a post or comment I deem as inappropriate                     | I am comfortable within the community and that the terms of site use are being upheld |
+| site administrator | be able to remove anything reported as offensive                                | it is able to be reviewed if it doesn’t meet the terms of sites use                   |
+| user / guest       | be able to get in contact with the site owner                                   | if I have any problems or suggestions I can pass it on to someone who can assist      |
+
 ### Wireframes
 
 #### Standard Home Page
