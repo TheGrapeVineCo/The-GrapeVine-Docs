@@ -12,7 +12,7 @@ Following a few glasses of wine and plenty of conversation with our client, _Vin
 
 The purpose of the site is to bring people together on a dedicated platform where they can share their love of wine and learn a tip or two along the way. This benefits the community of wine consumers at all levels to then be able to try recommended wines by those who have shared and contributed within the community.
 
-In addition to sharing wine experiences, a dashboard of the most popular wines that users have _liked_ will be available.
+In addition to sharing wine experiences, a dashboard of the most popular wines that users have _liked_ or _recommended_ will be available.
 
 ### Functionality / Features
 
@@ -30,8 +30,8 @@ In addition to sharing wine experiences, a dashboard of the most popular wines t
 - The site runs on the basis of trust, where the user may _like_ a wine post by 'cheersing' (🥂) to like a post, following a similar concept to Facebook/Twitter. A user who has tried the wine and would like to recommend it to others can do so by _‘recommending’_ (🎖) the wine.
 - The website will include filtering options to assist in the user search experience ie. wine type, grape, etc
 - The site will include wine ratings to show the most popular wines rated by users
-- The site will include 2 types of user accounts, including administrator as well as a standard user accounts. All users will login via the same login access
-- An administrator will have the ability to delete inappropriate content of any user and take action on
+- The site will include 2 types of user accounts, including a website administrator as well as a standard user accounts. All users will login via the same login access
+- A website administrator will have the ability to delete inappropriate content of any user
 
 ### Target Audience
 
@@ -40,7 +40,7 @@ In addition to sharing wine experiences, a dashboard of the most popular wines t
 
 ### Tech Stack
 
-**Frontend:** React, HTML, CSS, Axios, Styled components / Bootstrap(?)
+**Frontend:** React, HTML, CSS
 **Backend:** Rails API
 **Database:** PostgreSQL, AWS S3
 **Deployment:** AWS, Netlify
@@ -53,6 +53,7 @@ In addition to sharing wine experiences, a dashboard of the most popular wines t
 
 - JWT - user authentication/authorisation
 - Styled Components
+- React Bootstrap
 
 ### Application Architecture Diagram
 
