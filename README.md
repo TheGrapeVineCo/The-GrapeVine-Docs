@@ -17,21 +17,21 @@ In addition to sharing wine experiences, a dashboard of the most popular wines t
 ### Functionality / Features
 
 - Age verification to ensure users are of legal age
-- To participate in the community users must create an account, however non-users (visitors) will have viewing access only
+- To participate in the community users must create an account, however non-users (guests) will have viewing access only and limited access to features
 - A registered and signed in user that is authenticated:
-  - May create a new post of a wine they enjoyed to share with the public
+  - Can create post of a wine they enjoyed to share with the public
   - Has the ability to like a wine that has been posted, which will increase the popularity of the wine and may be displayed in the dashboard
   - Can comment on other users posts
-  - May delete/remove or edit their own post
-  - May NOT adjust or change the rating system and, or other’s peoples' comments
+  - Can delete or edit their own post
+  - Cannot adjust or delete another persons comments
   - Has the ability to browse the catalogue of other contributors (other posts) and add comments accordingly
-- A visitor may access and read all comments and see ratings without contributing. Contributing means making comments or participating in rating the wines
-- A Navbar to store all main links for easy navigation of the site as well as a login/sign-up link
+- A guest may access and read all comments and see ratings without contributing. Contributing means making comments or participating in rating the wines
+- A Navbar to store all main links for easy navigation of the site, including login/sign-up
 - The site runs on the basis of trust, where the user may _like_ a wine post by 'cheersing' (🥂) to like a post, following a similar concept to Facebook/Twitter. A user who has tried the wine and would like to recommend it to others can do so by _‘recommending’_ (🎖) the wine.
-- The website will provide a list of categories to choose from. ie. White wine, red wine, etc
-- The site will include a dashboard to show the current state of the most popular wines rated by users
-- The host will require 2 types of user accounts, including administrator as well as a standard user accounts. All users will login via the same login access
-- An administrator will have the ability to delete inappropriate content of any user
+- The website will include filtering options to assist in the user search experience ie. wine type, grape, etc
+- The site will include wine ratings to show the most popular wines rated by users
+- The site will include 2 types of user accounts, including administrator as well as a standard user accounts. All users will login via the same login access
+- An administrator will have the ability to delete inappropriate content of any user and take action on
 
 ### Target Audience
 
@@ -45,13 +45,13 @@ In addition to sharing wine experiences, a dashboard of the most popular wines t
 **Database:** PostgreSQL, AWS S3
 **Deployment:** AWS, Netlify
 **DevOps:** Git, GitHub, VSCode
-**Testing:** TBC
+**Testing:** RSpec - Rails, JEST - JavaScript
 **Utilities:** Draw.io, Balsamiq Wireframes
 **Project-management tools:** Trello, Discord
 
 **React libraries:**
 
-- Knock - user authentication/authorisation (TBC)
+- JWT - user authentication/authorisation
 - Styled Components
 
 ### Application Architecture Diagram
