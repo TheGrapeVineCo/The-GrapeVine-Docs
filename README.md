@@ -92,7 +92,7 @@ There are numerous possibilities to scale up the site. Therefore, the minimum vi
 
 #### Standard Home Page
 
-![Standard Home Page](./WireFrames/standardHome.png)
+![Standard Home Page](./WireFrames/guestHome.png)
 
 #### Login
 
@@ -106,37 +106,17 @@ There are numerous possibilities to scale up the site. Therefore, the minimum vi
 
 ![Loggedin User Home Page](./WireFrames/loggedinUserHomePage.png)
 
-#### My Wines
-
-![My Wines](./WireFrames/myWines.png)
-
 #### Wish List
 
 ![Wish List](./WireFrames/wishList.png)
 
-#### Search
+#### Search Output
 
-![Search](./WireFrames/search.png)
+![Search Output](./WireFrames/searchOutput.png)
 
-#### UserX Wines
+#### Report A Users Comment
 
-![UserX Wines](./WireFrames/userXWines.png)
-
-#### Create Post
-
-![Create Post](./WireFrames/createPost.png)
-
-#### Update A Post
-
-![Update A Post](./WireFrames/updatePost.png)
-
-#### Delete Post
-
-![Delete Post](./WireFrames/deletePost.png)
-
-#### Report A Users Post
-
-![Report A User Post](./WireFrames/reportUserPost.png)
+![Report A User Comment](./WireFrames/reportUserPost.png)
 
 #### Contact Us
 
@@ -149,6 +129,18 @@ There are numerous possibilities to scale up the site. Therefore, the minimum vi
 #### Administrator Dashboard
 
 ![Administrator Dashboard](./WireFrames/adminDashboard.png)
+
+#### Create Post
+
+![Create Post](./WireFrames/createPost.png)
+
+#### Update A Post
+
+![Update A Post](./WireFrames/updatePost.png)
+
+#### Delete Post
+
+![Delete Post](./WireFrames/deletePost.png)
 
 #### Administrator Notification
 
