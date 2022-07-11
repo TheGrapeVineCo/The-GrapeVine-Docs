@@ -12,7 +12,7 @@ Following a few glasses of wine and plenty of conversation with our client, _Vin
 
 The purpose of the site is to bring people together on a dedicated platform where they can share their love of Australian wine and learn a tip or two along the way. This benefits the community of wine consumers at all levels to then be able to try recommended wines by those who have shared and contributed within the community.
 
-In addition to sharing wine experiences, a dashboard of the most popular wines that users have _liked_ or recommended will be available.
+In addition to sharing wine experiences, a dashboard of the most popular wines that users have _liked_ or _recommended_ will be available.
 
 ### Functionality / Features
 
@@ -20,7 +20,6 @@ In addition to sharing wine experiences, a dashboard of the most popular wines t
 - Each week the website administrator will share a number of new wines, as posts, for users to share their opinions about
 - To participate in the community users must create an account, however non-users (guests) will have viewing access only and limited access to features
 - A registered and signed in user that is authenticated:
-  - May create a new post of a wine they enjoyed to share with the public
   - Has the ability to like a wine that has been posted, which will increase the popularity of the wine and may be displayed in the dashboard
   - Can comment on wine posts
   - Can delete or edit their own post
@@ -59,8 +58,9 @@ In addition to sharing wine experiences, a dashboard of the most popular wines t
 
 **React libraries:**
 
-- Knock - user authentication/authorisation (TBC)
+- JWT - user authentication/authorisation
 - Styled Components
+- React Bootstrap
 
 ### Application Architecture Diagram
 
