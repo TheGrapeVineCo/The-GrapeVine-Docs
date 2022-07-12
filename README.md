@@ -56,15 +56,15 @@ In addition to sharing wine experiences, a dashboard of the most popular wines t
 
 ### Data Flow Diagrams
 
-![Data Flow Diagram - Guest](./DFDs/dfdGuest.png)
+![Data Flow Diagram - Guest](./dataFlowDiagrams/dfdGuest.png)
 
-![Data Flow Diagram - User](./DFDs/dfdUser.png)
+![Data Flow Diagram - User](./dataFlowDiagrams/dfdUser.png)
 
-![Data Flow Diagram - Admin](./DFDs/dfdAdmin.png)
+![Data Flow Diagram - Admin](./dataFlowDiagrams/dfdAdmin.png)
 
 ### Application Architecture Diagram
 
-![Application Architecture Diagram](./architecture.jpg)
+![Application Architecture Diagram](./architecture/architecture.png)
 
 ### User Stories
 
