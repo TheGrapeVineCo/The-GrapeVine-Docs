@@ -64,7 +64,7 @@ In addition to sharing wine experiences, a dashboard of the most popular wines t
 
 ### Application Architecture Diagram
 
-![Application Architecture Diagram](./architecture.jpg)
+![Application Architecture Diagram](./architecture.png)
 
 ### User Stories
 
