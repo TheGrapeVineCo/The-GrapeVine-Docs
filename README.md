@@ -64,15 +64,15 @@ In addition to sharing wine experiences, a dashboard of the most popular wines t
 
 ### Data Flow Diagrams
 
-![Data Flow Diagram - Guest](./dataFlowDiagrams/dfdGuest.png)
+![Data Flow Diagram - Guest](./docs/dataFlowDiagrams/dfdGuest.png)
 
-![Data Flow Diagram - User](./dataFlowDiagrams/dfdUser.png)
+![Data Flow Diagram - User](./docs/dataFlowDiagrams/dfdUser.png)
 
-![Data Flow Diagram - Admin](./dataFlowDiagrams/dfdAdmin.png)
+![Data Flow Diagram - Admin](./docs/dataFlowDiagrams/dfdAdmin.png)
 
 ### Application Architecture Diagram
 
-![Application Architecture Diagram](./architecture/architecture.png)
+![Application Architecture Diagram](./docs/architecture/architecture.png)
 
 ### User Stories
 
@@ -111,56 +111,56 @@ There are numerous possibilities to scale up the site. Therefore, the minimum vi
 
 #### Standard Home Page
 
-![Standard Home Page](./WireFrames/guestHome.png)
+![Standard Home Page](./docs/WireFrames/guestHome.png)
 
 #### Login
 
-![Login](./WireFrames/login.png)
+![Login](./docs/WireFrames/login.png)
 
 #### Signup
 
-![Signup](./WireFrames/signUp.png)
+![Signup](./docs/WireFrames/signUp.png)
 
 #### Loggedin User Home Page
 
-![Loggedin User Home Page](./WireFrames/loggedinUserHomePage.png)
+![Loggedin User Home Page](./docs/WireFrames/loggedinUserHomePage.png)
 
 #### Wish List
 
-![Wish List](./WireFrames/wishList.png)
+![Wish List](./docs/WireFrames/wishList.png)
 
 #### Search Output
 
-![Search Output](./WireFrames/searchOutput.png)
+![Search Output](./docs/WireFrames/searchOutput.png)
 
 #### Report A Users Comment
 
-![Report A User Comment](./WireFrames/reportUserPost.png)
+![Report A User Comment](./docs/WireFrames/reportUserPost.png)
 
 #### Contact Us
 
-![Contact Us](./WireFrames/contactUs.png)
+![Contact Us](./docs/WireFrames/contactUs.png)
 
 #### Wine Ratings
 
-![Wine Ratings](./WireFrames/wineRatings.png)
+![Wine Ratings](./docs/WireFrames/wineRatings.png)
 
 #### Administrator Dashboard
 
-![Administrator Dashboard](./WireFrames/adminDashboard.png)
+![Administrator Dashboard](./docs/WireFrames/adminDashboard.png)
 
 #### Create Post
 
-![Create Post](./WireFrames/createPost.png)
+![Create Post](./docs/WireFrames/createPost.png)
 
 #### Update A Post
 
-![Update A Post](./WireFrames/updatePost.png)
+![Update A Post](./docs/WireFrames/updatePost.png)
 
 #### Delete Post
 
-![Delete Post](./WireFrames/deletePost.png)
+![Delete Post](./docs/WireFrames/deletePost.png)
 
 #### Administrator Notification
 
-![Administrator Notification](./WireFrames/reportedUserPost.png)
+![Administrator Notification](./docs/WireFrames/reportedUserPost.png)
