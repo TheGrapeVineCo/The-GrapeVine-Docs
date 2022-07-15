@@ -165,13 +165,34 @@ There are numerous possibilities to scale up the site. Therefore, the minimum vi
 
 ![Administrator Notification](./docs/WireFrames/reportedUserPost.png)
 
-### Trello Board Screenshots
+### Trello Board
 
-The Trello board screenshots below are in order of dates, showing the progress of the assignment as it develops over time.
+#### Trello board explanation and workflow
+
+In our kick-off meeting, we chose to use the Trello board to help us manage our project. With Trello, we are able to use the Kanban method to help us work in an agile workflow. Allowing for easy changes to be integrated into our workflow. These changes may come from our developer team or directly from out client.
+
+You will see in the screenshots below that we work off from the five typical columns: Backlog, To do, Doing, Testing & Done.
+
+Starting from the left of the board, we will have activities that require action and upon agreement and prior discussion, we would then have team members allocated to each cards.
+Upon completion of each card, the second team member would review the work to ensure we have quality checking.
+
+We have come across some tasks that require to be brought back from the ‘done’ column as it requires further modification after a review. This usually calls for a team meeting and sometimes original ideas will require rethinking and changes need to be made.
+
+You can see this happened in the screenshots below for the User Stories and Architecture Diagram cards.
+
+Each task/cards will have a ‘due date’ nominated to ensure we have some idea of priority in our work timeframe of when they should be completed. Anything that is overdue will change its colour from green to red to alert us.
+
+As a member of the Trello, I can see where and what my team member have changed on the cards as it displays a red bell notification on my version of trello. You can see this below on Trello dated 03_07_22.
+
+#### Trello screenshots
 
 ![Trello Board](./docs/trello/02_07_22.png)
 
+Below, you can see Jacqui's Trello Board for the day.
+
 ![Trello Board](./docs/trello/03_07_22_jc.png)
+
+Below, you can see that on the same day, I have the red bell notifcation alerting me of the changes my team member had made.
 
 ![Trello Board](./docs/trello/03_07_22_nr.png)
 
@@ -185,15 +206,21 @@ The Trello board screenshots below are in order of dates, showing the progress o
 
 ![Trello Board](./docs/trello/09_07_22.png)
 
+Below, you can see that we had to move the 'User stories' card back from the 'Done' column as it needed to be changed to suit the new scope.
+
 ![Trello Board](./docs/trello/10_07_22.png)
+
+Below, you can see the detailed log of the card 'User stories', capturing the new scope and what new work is required to cover the new scope.
 
 ![Trello Board](./docs/trello/10_07_22_userstories.png)
 
 ![Trello Board](./docs/trello/11_07_22.png)
 
+Below shows the architecture diagram, also needed a review and changes required.
+
 ![Trello Board](./docs/trello/12_07_22_aad-redo.png)
 
-![Trello Board](./docs/trello/13_07_22.png)
+Below shows the detailed log of the card 'Application Architecture Diagram', capturing the changes and other issues encountered.
 
 ![Trello Board](./docs/trello/13_07_22_aad-detailed_log.png)
 
