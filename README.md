@@ -164,3 +164,65 @@ There are numerous possibilities to scale up the site. Therefore, the minimum vi
 #### Administrator Notification
 
 ![Administrator Notification](./docs/WireFrames/reportedUserPost.png)
+
+### Trello Board Screenshots
+
+The Trello board screenshots below are in order of dates, showing the progress of the assignment as it develops over time.
+
+![Trello Board](./docs/trello/02_07_22.png)
+
+![Trello Board](./docs/trello/03_07_22_jc.png)
+
+![Trello Board](./docs/trello/03_07_22_nr.png)
+
+![Trello Board](./docs/trello/04_07_22.png)
+
+![Trello Board](./docs/trello/06_07_22.png)
+
+![Trello Board](./docs/trello/07_07_22.png)
+
+![Trello Board](./docs/trello/08_07_22.png)
+
+![Trello Board](./docs/trello/09_07_22.png)
+
+![Trello Board](./docs/trello/10_07_22.png)
+
+![Trello Board](./docs/trello/10_07_22_userstories.png)
+
+![Trello Board](./docs/trello/11_07_22.png)
+
+![Trello Board](./docs/trello/12_07_22_aad-redo.png)
+
+![Trello Board](./docs/trello/13_07_22.png)
+
+![Trello Board](./docs/trello/13_07_22_aad-detailed_log.png)
+
+![Trello Board](./docs/trello/15_07_22.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
