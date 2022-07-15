@@ -14,6 +14,8 @@ The purpose of the site is to bring people together on a dedicated platform wher
 
 In addition to sharing wine experiences, a dashboard of the most popular wines that users have _liked_ or _recommended_ will be available.
 
+To help read this document and understand some terms used, we have supplied a glossary page at the very end of this README.md
+
 ### Functionality / Features
 
 - Age verification to ensure users are of legal age
@@ -225,6 +227,47 @@ Below shows the detailed log of the card 'Application Architecture Diagram', cap
 ![Trello Board](./docs/trello/13_07_22_aad-detailed_log.png)
 
 ![Trello Board](./docs/trello/15_07_22.png)
+
+### Glossary Page
+
+Each term's descriptions are not fixed. We can overwrite them over team agreements. The purpose of this document is to help us be better with our communications and collaborations.
+
+**Comment**
+A comment is a block of the text created by registered users and is appended to a wine listing of their choice.
+
+**Wine listing**
+A wine listing is an individual wine product with its own title, description and image. It has a provision to have comments placed against it by registered users. A wine listing is one extraction from the wine listings.
+
+**Wine listings**
+Wine listings is the collection or library of all the wine listing. 
+
+**Like**
+Is an action, for when a user wants to increment the ranking for ‘liking a wine listing’. We are using the emoji 🥂 to represent this.
+
+**Recommendation**
+Like is an action, for when you want to increment the ranking for ‘liking a wine listing’. We are using the emoji 🎖 to represent this.
+
+**Sign up**
+When a guest wants to create an account with the app and becomes a registered user.
+
+**Log in**
+For when a user with an account has successfully entered their user details and the response is happy and verified.
+
+**Log out**
+For when a user wants to exit/close off the ‘logged in’ state and the browser is back to guess mode.
+
+**Guest**
+A term used for a user who is currently not logged in with a valid account.
+
+**User**
+A term used for a user who has an account and is also currently logged in.
+
+**Admin**
+A user who has an accelerated account with more abilities than a registered user.
+
+*Post*
+Please note that this term post is currently not being used. An example of when this can be used: a post is when a registered user creates a new wine listing. This function isn’t available in this first version of the app.
+
 
 
 
