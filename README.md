@@ -19,17 +19,17 @@ To help read this document and understand some terms used, we have supplied a gl
 ### Functionality / Features
 
 - Age verification to ensure users are of legal age
-- Each week the website administrator will share a number of new wines, as posts, for users to share their opinions about
+- Each week the website administrator will share a number of new wines, as wine listing, for users to share their opinions about
 - To participate in the community users must create an account, however non-users (guests) will have viewing access only and limited access to features
-- A registered and signed in user that is authenticated:
-  - Has the ability to like a wine that has been posted, which will increase the popularity of the wine and may be displayed in the dashboard
-  - Can comment on wine posts
-  - Can delete or edit their own post
+- A registered and logged in user that is authenticated:
+  - Has the ability to like a wine listing, which will increase the popularity of the wine product and may be displayed in the dashboard
+  - Can comment on a wine listing
+  - Can delete or edit their own comments
   - Cannot adjust or delete another person's comments
-  - Has the ability to browse the catalogue of other contributors (other posts) and add comments accordingly
 - A guest may access and read all comments and see ratings without contributing. Contributing means making comments or participating in rating the wines
 - A Navbar to store all main links for easy navigation of the site, including login/sign-up
-- The site runs on the basis of trust, where the user may _like_ a wine post by 'cheersing' (🥂) to like a post, following a similar concept to Facebook/Twitter. A user who has tried the wine and would like to recommend it to others can do so by _‘recommending’_ (🎖) the wine.
+- The user may _like_ a wine listing by 'cheersing' (🥂) to like a wine listing, following a similar concept to Facebook/Twitter. 
+- On the basis of trust, a user who has tried the wine and would like to recommend it to others can do so by _‘recommending’_ (🎖) the wine.
 - The website will include filtering options to assist in the user search experience ie. wine type, grape, etc
 - The site will include wine ratings to show the most popular wines rated by users
 - The site will include 2 types of user accounts, including a website administrator as well as a standard user accounts. All users will login via the same login access
@@ -52,7 +52,7 @@ To help read this document and understand some terms used, we have supplied a gl
 
 **DevOps:** Git, GitHub, VSCode
 
-**Testing:** RSpec - Rails, JEST - JavaScrupt
+**Testing:** RSpec - Rails, JEST - JavaScript
 
 **Utilities:** Draw.io, Balsamiq Wireframes
 
@@ -82,29 +82,28 @@ There are numerous possibilities to scale up the site. Therefore, the minimum vi
 
 #### Minimum Viable Product
 
-| As a...                           | I want to...                                                                                     | So that...                                                                                           |
+| As a...                           | I want to...                                                                                     | so that...                                                                                           |
 | --------------------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
-| user / guest                      | view all wines listed, including the comments and the number of likes                            | I am able to see what recommendations others have and how others have responded to a particular wine |
+| user / guest                      | view all wines listings, including the comments and the number of likes and recommendations      | I am able to see what recommendations others have and how others have responded to a particular wine |
 | guest                             | create an account with an email address, username and password                                   | I have a unique account that is secure and doesn’t require providing too much personal information   |
-| user                              | comment on a wine that has been posted                                                           | I can share my opinion/experience with the community                                                 |
-| user                              | be able to like a post                                                                           | I can share my opinion with the community                                                            |
+| user                              | comment on a wine that has been listed                                                           | I can share my opinion/experience with the community                                                 |
+| user                              | be able to like a wine listing                                                                   | I can share my opinion with the community                                                            |
 | user                              | be able to recommend a wine if I have tried it                                                   | others can know about this wine, boosting its popularity                                             |
 | user                              | sign out when I have finished using the site                                                     | I can close my session off and my account is secured                                                 |
-| user                              | create a post in a convenient and easy manner                                                    | the process is quick, easy to follow and can be shared with the community                            |
 | user / guest / site administrator | be able to navigate the site easily without having to guess where to find certain site functions | I can navigate easily                                                                                |
 | guest                             | be able to see what the community is about and has to offer                                      | I can understand if it’s relevant to my interests                                                    |
 | user / guest                      | know what wines are popular                                                                      | I can try something new                                                                              |
-| user                              | be able to edit or delete my own post/comment                                                    | if I make a mistake or need to retract a comment I am able to                                        |
-| site administrator                | add a new wine to the wine list in a convenient and easy manner                                  | the process is quic and easy to follow                                                               |
-| site administrator                | be able to edit or delete wine(s) from the wine list                                             | I am able to make modifications if need be                                                           |
+| user                              | be able to edit or delete my own comment                                                         | if I make a mistake or need to retract a comment I am able to                                        |
+| site administrator                | add a new wine to the wine list in a convenient and easy manner                                  | the process is quick and easy to follow                                                              |
+| site administrator                | be able to edit or delete a wine listing                                                         | I am able to make modifications to all wine products from the wine listings                          |
 
 #### Additional Features
 
-| As a...            | I want to...                                                                       | I want to...                                                                          |
+| As a...            | I want to...                                                                       | so that...                                                                            |
 | ------------------ | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | user / guest       | search flavour profiles that I like                                                | I can discover wines that match the flavour profiles I prefer                         |
-| user / guest       | have the ability to search wines, whether that is by name, grape type, region etc. | I can discover new wines that are relevant to what I’m searching                      |
-| User               | be able to save the wines that I've tried or liked                                 | I can remember and try them                                                           |
+| user / guest       | have the ability to search wine products, whether that is by name, grape type, etc.| I can discover new wines that are relevant to what I’m searching                      |
+| user               | be able to save the wines that I've tried or liked                                 | I can remember and try them                                                           |
 | user               | be able to report a post or comment I deem as inappropriate                        | I am comfortable within the community and that the terms of site use are being upheld |
 | site administrator | be able to remove anything reported as offensive                                   | it is able to be reviewed if meets the terms of site use                              |
 | user / guest       | be able to get in contact with the site owner                                      | if I have any problems or suggestions I can pass it on to someone who can assist      |
@@ -230,7 +229,7 @@ Below shows the detailed log of the card 'Application Architecture Diagram', cap
 
 ### Glossary Page
 
-Each term's descriptions are not fixed. We can overwrite them over team agreements. The purpose of this document is to help us be better with our communications and collaborations.
+Each terminology descriptions are not fixed. We can overwrite them over team agreements. The purpose of this document is to help us be consisent with the terminology we use, enhancing communications and collaborations skills.
 
 **Comment**
 A comment is a block of the text created by registered users and is appended to a wine listing of their choice.
@@ -266,7 +265,7 @@ A term used for a user who has an account and is also currently logged in.
 A user who has an accelerated account with more abilities than a registered user.
 
 *Post*
-Please note that this term post is currently not being used. An example of when this can be used: a post is when a registered user creates a new wine listing. This function isn’t available in this first version of the app.
+Please note that this term is currently not being used. An example of when this can be used: a post is when a registered user creates a new wine listing. This function isn’t available in this first version of the app.
 
 
 
