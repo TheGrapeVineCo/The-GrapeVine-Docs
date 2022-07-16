@@ -177,13 +177,17 @@ You will see in the screenshots below that we work off from the five typical col
 Starting from the left of the board, we will have activities that require action and upon agreement and prior discussion, we would then have team members allocated to each cards.
 Upon completion of each card, the second team member would review the work to ensure we have quality checking.
 
-We have come across some tasks that require to be brought back from the ‘done’ column as it requires further modification after a review. This usually calls for a team meeting and sometimes original ideas will require rethinking and changes need to be made.
+We have come across some cards require to be brought back from the ‘done’ section, as it requires further modification after a review. This usually calls for a team meeting and sometimes original ideas will require rethinking and changes need to be made.
 
 You can see this happened in the screenshots below for the User Stories and Architecture Diagram cards.
 
 Each task/cards will have a ‘due date’ nominated to ensure we have some idea of priority in our work timeframe of when they should be completed. Anything that is overdue will change its colour from green to red to alert us.
 
 As a member of the Trello, I can see where and what my team member have changed on the cards as it displays a red bell notification on my version of trello. You can see this below on Trello dated 03_07_22.
+
+You may also go to this link to view the Trello board live
+
+[The GrapeVine Trello Board](https://trello.com/b/RRluofOJ)
 
 #### Trello screenshots
 
@@ -193,7 +197,7 @@ Below, you can see Jacqui's Trello Board for the day.
 
 ![Trello Board](./docs/trello/03_07_22_jc.png)
 
-Below, you can see that on the same day, I have the red bell notifcation alerting me of the changes my team member had made.
+Below, you can see that on the same day, Nga have the red bell notifcation alerting her of the changes her team member had made.
 
 ![Trello Board](./docs/trello/03_07_22_nr.png)
 
@@ -231,41 +235,29 @@ Below shows the detailed log of the card 'Application Architecture Diagram', cap
 
 Each terminology descriptions are not fixed. We can overwrite them over team agreements. The purpose of this document is to help us be consisent with the terminology we use, enhancing communications and collaborations skills.
 
-**Comment**
-A comment is a block of the text created by registered users and is appended to a wine listing of their choice.
+**Comment** - A comment is a block of the text created by registered users and is appended to a wine listing of their choice.
 
-**Wine listing**
-A wine listing is an individual wine product with its own title, description and image. It has a provision to have comments placed against it by registered users. A wine listing is one extraction from the wine listings.
+**Wine listing** - A wine listing is an individual wine product with its own title, description and image. It has a provision to have comments placed against it by registered users. A wine listing is one extraction from the wine listings.
 
-**Wine listings**
-Wine listings is the collection or library of all the wine listing. 
+**Wine listings** - Wine listings is the collection or library of all the wine listing. 
 
-**Like**
-Is an action, for when a user wants to increment the ranking for ‘liking a wine listing’. We are using the emoji 🥂 to represent this.
+**Like** - Is an action, for when a user wants to increment the ranking for ‘liking a wine listing’. We are using the emoji 🥂 to represent this.
 
-**Recommendation**
-Like is an action, for when you want to increment the ranking for ‘liking a wine listing’. We are using the emoji 🎖 to represent this.
+**Recommendation** - Like is an action, for when you want to increment the ranking for ‘liking a wine listing’. We are using the emoji 🎖 to represent this.
 
-**Sign up**
-When a guest wants to create an account with the app and becomes a registered user.
+**Sign up** - When a guest wants to create an account with the app and becomes a registered user.
 
-**Log in**
-For when a user with an account has successfully entered their user details and the response is happy and verified.
+**Log in** - For when a user with an account has successfully entered their user details and the response is happy and verified.
 
-**Log out**
-For when a user wants to exit/close off the ‘logged in’ state and the browser is back to guess mode.
+**Log out** - For when a user wants to exit/close off the ‘logged in’ state and the browser is back to guess mode.
 
-**Guest**
-A term used for a user who is currently not logged in with a valid account.
+**Guest** - A term used for a user who is currently not logged in with a valid account.
 
-**User**
-A term used for a user who has an account and is also currently logged in.
+**User** - A term used for a user who has an account and is also currently logged in.
 
-**Admin**
-A user who has an accelerated account with more abilities than a registered user.
+**Admin** - A user who has an accelerated account with more abilities than a registered user.
 
-*Post*
-Please note that this term is currently not being used. An example of when this can be used: a post is when a registered user creates a new wine listing. This function isn’t available in this first version of the app.
+*Post* - Please note that this term is currently not being used. An example of when this can be used: a post is when a registered user creates a new wine listing. This function isn’t available in this first version of the app.
 
 
 
