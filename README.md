@@ -320,15 +320,23 @@ As developers, it is efficient to test the working of our application in a Devel
 Various tools were used in this project to help with the testing.
 
 **web developer tool**
-The image below shows that we used the web developer tool, straight from the Chrome browser, to check if the sessionStorage had worked and stored the data in the browser. In this case, we have the keys but value is 'undefined'.
+The images below shows that we used the web developer tool, straight from the Chrome browser for testing development enviroment during integrations of front end and back end.
+
+Here, we were testing if Axios has successfully been used to send a **POST request** to the back end Rails API to store data into local postgreSQL database. The object found in the Payload helps to confirm what data is being passed through. It was important to Rails Devise that the data needed to be in a certain request format to meet the requirement for registering the users in the backend. This was simply encapsulating the object inside **user**, and we can see that this has happened in the Payload.
+
+![Development Testing](./docs/testDevEnv/test-dev-env-axios-devtool.png)
+
+Then, in additional to this, we queried the local postgreSQL using our terminal and was able to check that we have successfully inserted the same user in the table.
+
+![Development Testing](./docs/testDevEnv/test-dev-env-axios-psql.png)
+
+Using web developer tools, we checked if sessionStorage had worked and stored the data in the browser. In this case, we have the keys but value is 'undefined'.
 
 ![Development Testing](./docs/testDevEnv/test-dev-env-error-sessionStorage.png)
 
 The next image, after making adjustments to the codes, checking the web developer tool again showed us the **username** and **token** keys now have correct values and are persisted in the sessionStorage.
 
 ![Development Testing](./docs/testDevEnv/test-dev-env-fixed-sessionStorage.png)
-
-
 
 
 ### Glossary Page
