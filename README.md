@@ -82,7 +82,7 @@ After a follow up meeting with out client, it was agreed that a number of featur
 
 **Database:** PostgreSQL
 
-**Deployment:** Netlify & Heroku
+**Deployment:** Front-end: Netlify & Back-end: Heroku
 
 **DevOps:** Git, GitHub, VSCode
 
@@ -245,7 +245,7 @@ We have come across some cards require to be brought back from the ‘done’ se
 
 You can see this happened in the screenshots below for the User Stories and Architecture Diagram cards.
 
-Each task/cards will have a ‘due date’ nominated to ensure we have some idea of priority in our work timeframe of when they should be completed. Anything that is overdue will change its colour from green to red to alert us.
+Each task/cards will have a ‘due date’ nominated to ensure we have some idea of priority in our work time frame of when they should be completed. Anything that is overdue will change its colour from green to red to alert us.
 
 As a member of the Trello, I can see where and what my team member have changed on the cards as it displays a red bell notification on my version of trello. You can see this below on Trello dated 03_07_22.
 
@@ -253,51 +253,69 @@ You may also go to this link to view the Trello board live
 
 [The GrapeVine Trello Board](https://trello.com/b/RRluofOJ)
 
-#### Trello screenshots
+## Trello screenshots
 
-![Trello Board](./docs/trello/02_07_22.png)
+The following screenshots take a snapshot at the end of each week. Additional screenshots documenting the workflow progress can be found in [this](https://github.com/TheGrapeVineCo/The-GrapeVine-Docs/tree/main/docs/trello) folder.
 
-Below, you can see Jacqui's Trello Board for the day.
+### Initial phase of the project
 
-![Trello Board](./docs/trello/03_07_22_jc.png)
+Project commenced:
+![Trello Board](./docs/trello/partA/02_07_22.png)
 
-Below, you can see that on the same day, Nga have the red bell notifcation alerting her of the changes her team member had made.
+<!-- Below, you can see Jacqui's Trello Board for the day. -->
 
-![Trello Board](./docs/trello/03_07_22_nr.png)
+<!-- ![Trello Board](./docs/trello/partA/03_07_22_jc.png)
 
-![Trello Board](./docs/trello/04_07_22.png)
+Below, you can see that on the same day, Nga have the red bell notification alerting her of the changes her team member had made. -->
 
-![Trello Board](./docs/trello/06_07_22.png)
+<!-- ![Trello Board](./docs/trello/partA/03_07_22_nr.png)
 
-![Trello Board](./docs/trello/07_07_22.png)
+![Trello Board](./docs/trello/partA/04_07_22.png)
 
-![Trello Board](./docs/trello/08_07_22.png)
+![Trello Board](./docs/trello/partA/06_07_22.png)
 
-![Trello Board](./docs/trello/09_07_22.png)
+![Trello Board](./docs/trello/partA/07_07_22.png) -->
+
+Week 1:
+![Trello Board](./docs/trello/partA/10_07_22.png)
+
+<!-- ![Trello Board](./docs/trello/partA/09_07_22.png)
 
 Below, you can see that we had to move the 'User stories' card back from the 'Done' column as it needed to be changed to suit the new scope.
 
-![Trello Board](./docs/trello/10_07_22.png)
+![Trello Board](./docs/trello/partA/10_07_22.png)
 
 Below, you can see the detailed log of the card 'User stories', capturing the new scope and what new work is required to cover the new scope.
 
-![Trello Board](./docs/trello/10_07_22_userstories.png)
+![Trello Board](./docs/trello/partA/10_07_22_userstories.png)
 
-![Trello Board](./docs/trello/11_07_22.png)
+![Trello Board](./docs/trello/partA/11_07_22.png)
 
 Below shows the architecture diagram, also needed a review and changes required.
 
-![Trello Board](./docs/trello/12_07_22_aad-redo.png)
+![Trello Board](./docs/trello/partA/12_07_22_aad-redo.png)
 
 Below shows the detailed log of the card 'Application Architecture Diagram', capturing the changes and other issues encountered.
 
-![Trello Board](./docs/trello/13_07_22_aad-detailed_log.png)
+![Trello Board](./docs/trello/partA/13_07_22_aad-detailed_log.png) -->
 
-![Trello Board](./docs/trello/15_07_22.png)
+Week 2:
+![Trello Board](./docs/trello/partA/15_07_22.png)
+
+### Second phase of the project
+
+Week 3:
+![Trello Board](./docs/trello/partB/23:07:22.png)
+
+Week 4:
+![Trello Board](./docs/trello/partB/01:08:22.png)
+
+Week 5:
+![Trello Board](./docs/trello/partB/04:08:22.png)
 
 ### Glossary Page
 
-Each terminology descriptions are not fixed. We can overwrite them over team agreements. The purpose of this document is to help us be consisent with the terminology we use, enhancing communications and collaborations skills.
+Each terminology descriptions are not fixed. We can overwrite them over team agreements. The purpose of this document is to help us be consistent with the terminology we use, enhancing communications and collaborations skills.
 
 **Comment** - A comment is a block of the text created by registered users and is appended to a wine listing of their choice.
 
