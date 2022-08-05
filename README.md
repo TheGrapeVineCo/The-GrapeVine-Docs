@@ -313,6 +313,24 @@ Week 4:
 Week 5:
 ![Trello Board](./docs/trello/partB/04:08:22.png)
 
+## User Testing in Development Enviroment
+
+As developers, it is efficient to test the working of our application in a Development enviroment before testing on Production Enviroment.
+
+Various tools were used in this project to help with the testing.
+
+**web developer tool**
+The image below shows that we used the web developer tool, straight from the Chrome browser, to check if the sessionStorage had worked and stored the data in the browser. In this case, we have the keys but value is 'undefined'.
+
+![Development Testing](./docs/testDevEnv/test-dev-env-error-sessionStorage.png)
+
+The next image, after making adjustments to the codes, checking the web developer tool again showed us the **username** and **token** keys now have correct values and are persisted in the sessionStorage.
+
+![Development Testing](./docs/testDevEnv/test-dev-env-fixed-sessionStorage.png)
+
+
+
+
 ### Glossary Page
 
 Each terminology descriptions are not fixed. We can overwrite them over team agreements. The purpose of this document is to help us be consistent with the terminology we use, enhancing communications and collaborations skills.
