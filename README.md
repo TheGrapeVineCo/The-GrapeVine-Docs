@@ -319,7 +319,6 @@ As developers, it is efficient to test the working of our application in a Devel
 
 Various tools were used in this project to help with the testing.
 
-**web developer tool**
 The images below shows that we used the web developer tool, straight from the Chrome browser for testing development enviroment during integrations of front end and back end.
 
 Here, we were testing if Axios has successfully been used to send a **POST request** to the back end Rails API to store data into local postgreSQL database. The object found in the Payload helps to confirm what data is being passed through. It was important to Rails Devise that the data needed to be in a certain request format to meet the requirement for registering the users in the backend. This was simply encapsulating the object inside **user**, and we can see that this has happened in the Payload.
@@ -334,10 +333,22 @@ Using web developer tools, we checked if sessionStorage had worked and stored th
 
 ![Development Testing](./docs/testDevEnv/test-dev-env-error-sessionStorage.png)
 
-The next image, after making adjustments to the codes, checking the web developer tool again showed us the **username** and **token** keys now have correct values and are persisted in the sessionStorage.
+After making adjustments to the codes, we checked the web developer tool again and it showed us that the **username** and **token** keys now have correct values and have persisted in the sessionStorage.
 
 ![Development Testing](./docs/testDevEnv/test-dev-env-fixed-sessionStorage.png)
 
+The next item, was testing for successfully storing new registered user from the browser to Heroku PostgreSQL database.
+In the Chrome dev tool, we can see that this passes ok.
+
+![Development Testing](./docs/testDevEnv/test-dev-end-sign_up-heroku.png)
+
+And we can check that the same user from the sign up, has been inserted into Heroku PostgreSQL database and not our local. This was done using the Heroku Command Line Interface directly from the terminal. The Heroku CLI is very useful that we can directly see updates conveniently from the terminal, after logging in remotely from the terminal.
+
+![Development Testing](./docs/testDevEnv/test-dev-end-sign_up-heroku-cli.png)
+
+Heroku has been set up to automatically deploy from our `main` branch, Server repo, in Github. Each time we `merge` our `feature` branch into the `main` during development phase, Heroku runs a new build and automatically deploys. It even logs the corresponding git commit id number to help with any backtracing.
+
+![Development Testing](./docs/testDevEnv/heroku-example.png)
 
 ### Glossary Page
 
