@@ -86,7 +86,7 @@ After a follow up meeting with out client, it was agreed that a number of featur
 
 **DevOps:** Git, GitHub, VSCode
 
-**Testing:** RSpec, client.http - Rails, JEST - JavaScript
+**Testing:** RSpec, REST Client VScode Extention (client.http) - Rails, JEST - JavaScript
 
 **Utilities:** Draw.io, Balsamiq Wireframes
 
@@ -275,6 +275,11 @@ Week 2:
 
 ### Second phase of the project
 
+In the second phase of the project, or the build, we continued using the Trello to help manage our project. We have a big meeting at the start of the week and talk about what we'd like to achieve. Together we add the cards to the to-do list and discuss about which card should be prioritised. We continued with the allocation of members to the card to help identify responsibility, and we made sure that the work is spread out, meaning each member should cover evenly across front end and back end development. 
+We introduced the labelling of the cards to reflect Front End (FE) and Back End (BE) as we found helpful to identify where the work is and this would correspond very well with out Github set up. We have a Client repo for Front end and Server Repo for Back end.
+
+Please see all screenshots taken throughout the second in folder Part B.
+
 Week 3:
 ![Trello Board](./docs/trello/partB/23:07:22.png)
 
@@ -328,6 +333,13 @@ Then we can check if same user from the sign up has been inserted into Heroku Po
 Heroku has been set up to automatically deploy from our `main` branch, Server repo, in Github. Each time we `merge` our `feature` branch into the `main` during development phase, Heroku runs a new build and automatically deploys. It even logs the corresponding git commit id number to help with any backtracing.
 
 ![Development Testing](./docs/testDevEnv/heroku-example.png)
+
+## User Testing in Production Environment
+
+Please see the spreadsheet generated for a real person testing the Production environment.
+We have used this to help us identify where we need improvement.
+
+[User Testing Production](./docs/testProdEnv/test-prod.xlsx)
 
 ### Glossary Page
 
