@@ -281,7 +281,7 @@ We introduced the labelling of the cards to reflect Front End (FE) and Back End 
 Please see all screenshots taken throughout the second in folder Part B.
 
 Week 3:
-![Trello Board](/docs/trello/partB/23:07:22.png)
+![Trello Board](/docs/trello/PartB/23:07:22.png)
 
 Week 4:
 ![Trello Board](/docs/trello/partB/01:08:22.png)
