@@ -287,7 +287,7 @@ Week 4:
 ![Trello Board](/docs/trello/PartB/01:08:22.png)
 
 Week 5:
-![Trello Board](/docs/trello/partB/04:08:22.png)
+![Trello Board](/docs/trello/PartB/04:08:22.png)
 
 ## Testing
 
