@@ -313,13 +313,19 @@ Week 4:
 Week 5:
 ![Trello Board](./docs/trello/partB/04:08:22.png)
 
-## User Testing in Development Enviroment
+## Testing
 
-As developers, it is efficient to test the working of our application in a Development enviroment before testing on Production Enviroment.
+### Development, Production & Formal Testing
+
+As developers, it is efficient to test the functionality of our application in a development environment before testing in the production environment. For this project a number of testing frameworks and tools have been used to develop a functional app. The manual testing tools include `client.http` and `Postman`, while the formal testing frameworks include `Jest` testing with React and `rspec` testing withRails.
+
+The manual tests were performed over both tools evenly, with reference to these tests in the following [link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQeAeb-wsmrNzipOGmM3-7Z9rR_48MaifmFVWtukScAeOZOl9jiZqFozmXBRCk6liwjiF6ckCv83X59/pubhtml). There is no set distinction between the use of tool in the recording of documentation. The full test suite of `client.http` can be located in the server repo.
+
+### User Testing in Development Environment
 
 Various tools were used in this project to help with the testing.
 
-1. The images below shows that we used the web developer tool, straight from the Chrome browser for testing development enviroment during integrations of front end and back end.
+1. The images below shows that we used the web developer tool, straight from the Chrome browser for testing development environment during integrations of front end and back end.
 
 Here, we were testing if Axios has successfully been used to send a **POST request** to the back end Rails API to store data into local postgreSQL database. The object found in the Payload helps to confirm what data is being passed through. It was important to Rails Devise that the data needed to be in a certain request format to meet the requirement for registering the users in the backend. This was simply encapsulating the object inside **user**, and we can see that this has happened in the Payload.
 
@@ -338,7 +344,7 @@ After making adjustments to the codes, we checked the web developer tool again a
 ![Development Testing](./docs/testDevEnv/test-dev-env-fixed-sessionStorage.png)
 
 3. Here we are testing for successfully storing new registered user from the browser to Heroku PostgreSQL database.
-In the Chrome dev tool, we can see that this passes ok.
+   In the Chrome dev tool, we can see that this passes ok.
 
 ![Development Testing](./docs/testDevEnv/test-dev-end-sign_up-heroku.png)
 
