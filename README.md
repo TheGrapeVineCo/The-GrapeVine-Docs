@@ -266,42 +266,8 @@ The following screenshots take a snapshot at the end of each week. Additional sc
 Project commenced:
 ![Trello Board](./docs/trello/partA/02_07_22.png)
 
-<!-- Below, you can see Jacqui's Trello Board for the day. -->
-
-<!-- ![Trello Board](./docs/trello/partA/03_07_22_jc.png)
-
-Below, you can see that on the same day, Nga have the red bell notification alerting her of the changes her team member had made. -->
-
-<!-- ![Trello Board](./docs/trello/partA/03_07_22_nr.png)
-
-![Trello Board](./docs/trello/partA/04_07_22.png)
-
-![Trello Board](./docs/trello/partA/06_07_22.png)
-
-![Trello Board](./docs/trello/partA/07_07_22.png) -->
-
 Week 1:
 ![Trello Board](./docs/trello/partA/10_07_22.png)
-
-<!-- ![Trello Board](./docs/trello/partA/09_07_22.png)
-
-Below, you can see that we had to move the 'User stories' card back from the 'Done' column as it needed to be changed to suit the new scope.
-
-![Trello Board](./docs/trello/partA/10_07_22.png)
-
-Below, you can see the detailed log of the card 'User stories', capturing the new scope and what new work is required to cover the new scope.
-
-![Trello Board](./docs/trello/partA/10_07_22_userstories.png)
-
-![Trello Board](./docs/trello/partA/11_07_22.png)
-
-Below shows the architecture diagram, also needed a review and changes required.
-
-![Trello Board](./docs/trello/partA/12_07_22_aad-redo.png)
-
-Below shows the detailed log of the card 'Application Architecture Diagram', capturing the changes and other issues encountered.
-
-![Trello Board](./docs/trello/partA/13_07_22_aad-detailed_log.png) -->
 
 Week 2:
 ![Trello Board](./docs/trello/partA/15_07_22.png)
