@@ -100,7 +100,7 @@ After a follow up meeting with out client, it was agreed that a number of featur
 - **Bootsnap >=1.4.4** - This is a library that is automatically installed with Rails. It is used to optimise and cache expensive computations.
 - **Devise** - Provides complete MVC authentication for Rails applications. It provides a reliable, easy to implement and safe solution for authentication that is widely used across the Rails community.
 - **Devise-jwt** - This gem expands from Devise, using JWT Tokens for user authentication. It assists in allowing users to signup, login and logout safely from the application.
-- **Faker** - The Faker library provides a wide range of test data that can be used to populate a database. To reduce time spent writing out seed files, this gem has been used to populate users as well as comments.
+- **Faker** - The Faker library provides a wide range of test data that can be used to populate a database. To reduce time spent writing out seed files, this gem has been used to populate users as well as comments. For the initial reveal to our client we have kept the seeded faker data in the application, however have plans to remove this at a later point so it is more professional.
 - **Listen** - Listen is an out of the box gem that tracks and notifies whoever is subscribed of file modifications.
 - **Spring** - The Spring preloader gem allows the application to be running in the background simultaneously as tje user makes changes to files. This is another out of the box gem that comes when installing Rails.
 - **tzinfo-data** - This gem provides access to a time zone database which allows times to be converted using the rules that are in the gem.
@@ -117,6 +117,10 @@ After a follow up meeting with out client, it was agreed that a number of featur
 - **React-router-dom ^6.3.0** - Provides dynamic web application routing that contains DOM bindings on a SPA.
 - **React-scripts ^5.0.1** - Provided when installing `create-react-app` this dependency assists in setting up the development environment and starts a server and provides hot reloading functionality.
 - **Jest** - Although `Create-React-App` does include Jest out of the box, the app has been installed due to testing issues related to React Bootstrap. Jest is a testing framework built on Javascript that provides a testing framework for React applications.
+
+### DevDependencies
+
+- **Prettier ^2.7.1** - Implemented this gem to assist with code formatting. This dependency has assisted greatly in tidying up the code formatting to ensure it is consistent. This saves on the time spent manually updating all code to the correct formatting.
 
 ### Data Flow Diagrams
 
@@ -320,6 +324,8 @@ Week 5:
 As developers, it is efficient to test the functionality of our application in a development environment before testing in the production environment. For this project a number of testing frameworks and tools have been used to develop a functional app. The manual testing tools include `client.http` and `Postman`, while the formal testing frameworks include `Jest` testing with React and `rspec` testing withRails.
 
 The manual tests were performed over both tools evenly, with reference to these tests in the following [link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQeAeb-wsmrNzipOGmM3-7Z9rR_48MaifmFVWtukScAeOZOl9jiZqFozmXBRCk6liwjiF6ckCv83X59/pubhtml). There is no set distinction between the use of tool in the recording of documentation. The full test suite of `client.http` can be located in the server repo.
+
+For the first release, the application has been seeded with `faker` data. While this is not ideal, due to time it has been established this way to ensure that our client is able to view the comments that users have and can potentially make. Further work here will be done to ensure data is updated with real users/comments.
 
 ### User Testing in Development Environment
 
