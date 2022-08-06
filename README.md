@@ -104,6 +104,7 @@ After a follow up meeting with out client, it was agreed that a number of featur
 - **Listen** - Listen is an out of the box gem that tracks and notifies whoever is subscribed of file modifications.
 - **Spring** - The Spring preloader gem allows the application to be running in the background simultaneously as tje user makes changes to files. This is another out of the box gem that comes when installing Rails.
 - **tzinfo-data** - This gem provides access to a time zone database which allows times to be converted using the rules that are in the gem.
+- **REST Client** - This is a Visual Code extension used to help with manual testing GET, POST, PUT/PATCH, DELETE requests.
 
 ## Client Libraries & Dependencies
 
