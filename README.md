@@ -86,7 +86,7 @@ After a follow up meeting with out client, it was agreed that a number of featur
 
 **DevOps:** Git, GitHub, VSCode
 
-**Testing:** RSpec, client.http - Rails, JEST - JavaScript
+**Testing:** RSpec, REST Client VScode Extention (client.http) - Rails, JEST - JavaScript
 
 **Utilities:** Draw.io, Balsamiq Wireframes
 
@@ -312,6 +312,8 @@ Week 4:
 
 Week 5:
 ![Trello Board](./docs/trello/partB/04:08:22.png)
+
+
 
 ## User Testing in Development Enviroment
 
